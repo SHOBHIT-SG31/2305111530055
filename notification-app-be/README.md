@@ -36,3 +36,9 @@ The priority inbox filters and displays notifications using the following rules:
 |---|---|---|
 | GET | `/health` | Verification check to ensure service is alive |
 | GET | `/priority` | Fetches, prioritizes, and outputs the top 10 notifications |
+
+### Screen shots 
+
+<img width="703" height="883" alt="image" src="https://github.com/user-attachments/assets/04410e29-68fc-4f90-9046-1ac9c2237257" />
+<img width="632" height="882" alt="image" src="https://github.com/user-attachments/assets/c575d4d8-b3cf-4eb3-8c0b-1a904cd689f8" />
+
